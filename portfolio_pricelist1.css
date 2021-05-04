@@ -1,0 +1,110 @@
+.h100 {
+    height: 100vh;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.h450 {
+    height: 450px;
+}
+
+.h70 {
+    height: 175px;
+}
+
+.h20 {
+    height: 25px;
+}
+
+.h40 {
+    height: 40px;
+}
+
+.bg1 {
+    background-color: #0f05053b;
+}
+
+.bg2 {
+    background-color: black;
+}
+
+.bg3 {
+    background-color: crimson;
+}
+
+.bg4 {
+    background-color: #ff5722;
+}
+
+.bgblue {
+    background-color: midnightblue;
+}
+
+.borderc {
+    border: 1px solid black;
+}
+
+.fcwhite {
+    color: white;
+}
+
+.fsize {
+    font-size: 10px;
+}
+
+.tcenter {
+    text-align: center;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.bradius {
+    border-radius: 20px;
+}
+
+.bradius1 {
+    width: 136px;
+    height: 138px;
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-top: -75px;
+    overflow: hidden;
+}
+
+.bradius1:hover {
+    transform: scale(1.1);
+}
+
+.div1 {
+    margin-top: -50px;
+}
+
+.div1bradius {
+    border-radius: 50%;
+}
+
+.heffect:hover {
+    transform: scale(1.1);
+    transition: 2s;
+}
+
+.heffect1:hover {
+    transform: rotatey(360deg);
+    transition: 2s;
+}
+
+.bt1 {
+    margin-left: 65px;
+}
+
+.bt1:hover {
+    transform: scale(1.1);
+}
